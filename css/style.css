@@ -46,6 +46,11 @@ img {
     width: 100%;
     height: 70px;
     position: fixed;
+    transition: 0.5s;
+}
+
+.navbar.top {
+    background: transparent;
 }
 
 .navbar a {
